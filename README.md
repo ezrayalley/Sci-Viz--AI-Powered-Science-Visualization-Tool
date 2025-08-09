@@ -31,8 +31,8 @@ git clone https://github.com/yourusername/sciviz.git
 cd sciviz
 pip install -r requirements.txt
 streamlit run app.py
-
-🤝 Contributing
+---
+## 🤝 Contributing
 Contributions are welcome! Feel free to:
 
 Report issues
@@ -42,7 +42,7 @@ Suggest new features
 Submit pull requests
 
 Let's make science education more intuitive and fun. Some files and codes are hidden, for full access and collaboration, reach out...
-
+---
 📫 Contact
 Ezra Yalley
 Email: your.email@example.com
