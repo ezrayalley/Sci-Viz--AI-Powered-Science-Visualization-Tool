@@ -6,7 +6,7 @@ Designed for students, educators, and science enthusiasts, Sciviz makes complex 
 
 <img width="1135" height="672" alt="image" src="https://github.com/user-attachments/assets/b61ab4a6-f46a-4f40-83c3-1e51a4e15362" />
 ---
-Check Video https://github.com/ezrayalley/Sci-Viz--AI-Powered-Science-Visualization-Tool/blob/main/assets/Intro/Intro_video.mp4
+
 ✨ Features
 🎥 Stunning Animated Visuals — Equations & theories brought to life with Manim.
 
