@@ -1,7 +1,8 @@
-streamlit>=1.32.0
-manim>=0.18.0
-numpy>=1.26.0
-pandas>=2.2.0
-matplotlib>=3.8.0
-sympy>=1.12
-scipy>=1.12.0
+streamlit==1.38.0
+manim==0.19.0
+numpy==2.1.1
+pandas==2.2.2
+matplotlib==3.9.2
+scipy==1.14.1
+Pillow==10.4.0
+sympy==1.13.2
